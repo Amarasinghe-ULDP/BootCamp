@@ -1,0 +1,26 @@
+package com.danu.strategyPattern;
+
+public class Duck{
+	
+	IFlyBehavior fb;
+	IQuackBehavior qb;
+	IDisplayBehavior db;
+	
+	public Duck(IFlyBehavior fb, IQuackBehavior qb, IDisplayBehavior db){
+		
+		this.fb = fb;
+		this.qb = qb;
+		this.db = db;
+	}
+	
+	public void fly(){
+		this.fb.fly();
+	}
+	
+	public void quack(){
+		this.qb.quack();
+	}
+	
+
+	
+}

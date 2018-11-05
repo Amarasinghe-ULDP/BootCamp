@@ -1,0 +1,13 @@
+package com.danu.pattern.strategy;
+
+public class Applcation {
+
+	public static void main(String[] args) {
+		
+		Vehicle vehicle;
+		
+		vehicle = new Vehicle(new AbsBreak());
+		vehicle.applyBreak(10);
+		
+	}
+}

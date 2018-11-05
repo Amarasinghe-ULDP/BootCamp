@@ -1,0 +1,23 @@
+package com.danushka;
+
+
+public class Appication{
+	
+	public static void main(String[] args){
+		
+		//SavingsAccount savingAccount = new SavingsAccount();
+		//operation.save(0.0);
+		//savingAccount.deposit(-10.0);
+		Operation operation = new Operation();
+		try{
+			operation.get(-10.0);
+		}catch(AccountException e){
+			e.printStackTrace();
+		}
+		
+		
+		
+		
+	}
+
+}

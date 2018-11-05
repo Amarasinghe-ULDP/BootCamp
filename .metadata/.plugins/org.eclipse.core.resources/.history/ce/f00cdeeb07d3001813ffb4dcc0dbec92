@@ -1,0 +1,25 @@
+package com.danu.ems.config;
+
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+
+import com.danu.ems.Repository.EmployeeRepository;
+import com.danu.ems.Repository.HibernateEmployeeRepositoryImpl;
+import com.danu.ems.service.EmployeeService;
+import com.danu.ems.service.EmployeeServiceImpl;
+
+@Configuration
+public class ApplicationConfiguration {
+	
+	@Bean(name="employeeService")
+	public EmployeeService getEmployeeService(){
+		EmployeeServiceImpl employeeServiceImpl = new EmployeeServiceImpl(getEmployeeRepository());
+		//employeeServiceImpl.setEmployeeRespository(getEmployeeRepository());
+		return employeeServiceImpl;
+	}
+
+	@Bean(name="employeeRepository")
+	public EmployeeRepository getEmployeeRepository(){
+		return new HibernateEmployeeRepositoryImpl();
+	}
+}

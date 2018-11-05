@@ -1,0 +1,18 @@
+package com.danu.example1;
+
+import java.util.TreeMap;
+
+public class Examinner {
+
+	
+	public static void main(String args[]){
+		
+		Student student = new Student();
+		student.setName("Kamal");
+		student.setId(111);
+		TreeMap<Integer,Student> tm = new TreeMap<>();
+		tm.put("30",student);
+		
+	
+	}
+}

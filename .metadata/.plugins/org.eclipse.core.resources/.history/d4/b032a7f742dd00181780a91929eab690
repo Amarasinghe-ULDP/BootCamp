@@ -1,0 +1,7 @@
+package com.danu.strategyPattern;
+
+public interface IQuackBehavior {
+	
+	public void quack();
+
+}

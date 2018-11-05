@@ -1,0 +1,15 @@
+package com.danu.pattern.strategy;
+
+public class Vehicle {
+
+	Break break1= new  AbsBreak();
+	Break break2 = new ClutchBreak();
+	public Vehicle()
+	{
+		
+	}	
+	void applyBreak(int distance)
+	{
+		break1.applyBreak(distance);
+	}
+}

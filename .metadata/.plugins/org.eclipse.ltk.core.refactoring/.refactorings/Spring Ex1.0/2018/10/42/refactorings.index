@@ -1,0 +1,5 @@
+1539716043654	Delete element
+1539716131863	Delete elements
+1539716593213	Extract interface 'EmployeeRepository'
+1539717245728	Rename type 'EmployeeRepositoryImpl'
+1539717768070	Extract interface 'EmployeeService'

@@ -1,0 +1,8 @@
+package com.danu.strategyPattern;
+
+public Interface SimpleQuack {
+
+	public void quack(){
+		System.out.println("Simple quack");
+	}
+}

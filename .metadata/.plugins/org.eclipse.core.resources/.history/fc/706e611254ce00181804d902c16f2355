@@ -1,0 +1,16 @@
+package com4.danushka;
+
+import java.awt.List;
+import java.util.ArrayList;
+
+public class Demo {
+	
+	public static void main(String args[]){
+		
+		//List<> s = new ArrayList<>();
+		List list = new ArrayList<>();
+		list.add("A", 1);
+		
+	}
+
+}

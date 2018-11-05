@@ -1,0 +1,9 @@
+package com.danu.strategyPattern;
+
+public class DisplayAsText implements IDisplayBehavior{
+	
+	public void display(){
+		System.out.println("Display as Text");
+	}
+
+}

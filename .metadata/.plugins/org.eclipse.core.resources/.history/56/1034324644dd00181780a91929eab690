@@ -1,0 +1,8 @@
+package com.danu.strategyPattern;
+
+public class SimpleQuack implements IQuackBehavior{
+
+	public void quack(){
+		System.out.println("Simple Quack");
+	}
+}

@@ -1,0 +1,9 @@
+package com.danu.strategyPattern;
+
+public class CityDuck extends Duck{
+	
+	public void quack(){
+		System.out.println("city duck quack");
+	}
+
+}

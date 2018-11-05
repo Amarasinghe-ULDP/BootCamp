@@ -1,0 +1,10 @@
+package com.danu.ems.repository;
+
+public class EmployeeRepositoryImpl {
+
+	@Override
+	public List<Employee> getAllEmployees(){
+		
+		Lis<Employee> employees = new ArrayList<>();
+	}
+}

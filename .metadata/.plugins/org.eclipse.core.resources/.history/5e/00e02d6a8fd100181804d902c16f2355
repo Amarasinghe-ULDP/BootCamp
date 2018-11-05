@@ -1,0 +1,7 @@
+package com.danu.ems.service;
+
+public interface EmployeeService {
+
+	List<Employee> getAllEmployees();
+
+}

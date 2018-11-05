@@ -1,0 +1,11 @@
+package com.danu.pattern.strategy;
+
+public class Vehicle {
+
+	Break break1;
+	
+	public Vehicle(Break break1)
+	{
+		
+	}
+}

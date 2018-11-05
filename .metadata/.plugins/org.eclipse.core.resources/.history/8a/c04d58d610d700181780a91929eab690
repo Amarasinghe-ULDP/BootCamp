@@ -1,0 +1,18 @@
+package com.danu.eh.model;
+
+public class EventJava {
+	
+	private String eventName;
+
+	public String getEventName() {
+		return eventName;
+	}
+
+	public void setEventName(String eventName) {
+		this.eventName = eventName;
+	}
+	
+	
+	
+
+}

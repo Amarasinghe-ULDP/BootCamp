@@ -1,0 +1,626 @@
+2018-10-12 04:13:00,698 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.5.1/maven-compiler-plugin-3.5.1.jar
+2018-10-12 04:13:01,437 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.5.1/maven-compiler-plugin-3.5.1.jar
+2018-10-12 04:13:02,062 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.5.1/maven-compiler-plugin-3.5.1.pom
+2018-10-12 04:13:02,310 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.5.1/maven-compiler-plugin-3.5.1.pom
+2018-10-12 04:13:02,569 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/28/maven-plugins-28.pom
+2018-10-12 04:13:02,818 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/28/maven-plugins-28.pom
+2018-10-12 04:13:03,070 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/27/maven-parent-27.pom
+2018-10-12 04:13:03,336 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/27/maven-parent-27.pom
+2018-10-12 04:13:03,604 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/17/apache-17.pom
+2018-10-12 04:13:03,855 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/17/apache-17.pom
+2018-10-12 04:13:04,160 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.0/maven-plugin-api-3.0.pom
+2018-10-12 04:13:04,408 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.0/maven-plugin-api-3.0.pom
+2018-10-12 04:13:04,657 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven/3.0/maven-3.0.pom
+2018-10-12 04:13:04,908 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven/3.0/maven-3.0.pom
+2018-10-12 04:13:05,178 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/15/maven-parent-15.pom
+2018-10-12 04:13:05,429 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/15/maven-parent-15.pom
+2018-10-12 04:13:05,687 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.0/maven-model-3.0.pom
+2018-10-12 04:13:05,934 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.0/maven-model-3.0.pom
+2018-10-12 04:13:06,185 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.0.4/plexus-utils-2.0.4.pom
+2018-10-12 04:13:06,432 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.0.4/plexus-utils-2.0.4.pom
+2018-10-12 04:13:06,688 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.0/maven-artifact-3.0.pom
+2018-10-12 04:13:06,935 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.0/maven-artifact-3.0.pom
+2018-10-12 04:13:07,192 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject-plexus/1.4.2/sisu-inject-plexus-1.4.2.pom
+2018-10-12 04:13:07,440 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject-plexus/1.4.2/sisu-inject-plexus-1.4.2.pom
+2018-10-12 04:13:07,692 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-plexus/1.4.2/guice-plexus-1.4.2.pom
+2018-10-12 04:13:07,955 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-plexus/1.4.2/guice-plexus-1.4.2.pom
+2018-10-12 04:13:08,205 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-bean/1.4.2/guice-bean-1.4.2.pom
+2018-10-12 04:13:08,453 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-bean/1.4.2/guice-bean-1.4.2.pom
+2018-10-12 04:13:08,774 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject/1.4.2/sisu-inject-1.4.2.pom
+2018-10-12 04:13:09,065 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject/1.4.2/sisu-inject-1.4.2.pom
+2018-10-12 04:13:09,314 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-parent/1.4.2/sisu-parent-1.4.2.pom
+2018-10-12 04:13:09,562 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-parent/1.4.2/sisu-parent-1.4.2.pom
+2018-10-12 04:13:09,812 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/forge/forge-parent/6/forge-parent-6.pom
+2018-10-12 04:13:10,060 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/forge/forge-parent/6/forge-parent-6.pom
+2018-10-12 04:13:10,313 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.2.3/plexus-classworlds-2.2.3.pom
+2018-10-12 04:13:10,571 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.2.3/plexus-classworlds-2.2.3.pom
+2018-10-12 04:13:10,821 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject-bean/1.4.2/sisu-inject-bean-1.4.2.pom
+2018-10-12 04:13:11,069 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject-bean/1.4.2/sisu-inject-bean-1.4.2.pom
+2018-10-12 04:13:11,321 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-guice/2.1.7/sisu-guice-2.1.7.pom
+2018-10-12 04:13:11,569 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-guice/2.1.7/sisu-guice-2.1.7.pom
+2018-10-12 04:13:11,823 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.0/maven-core-3.0.pom
+2018-10-12 04:13:12,071 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.0/maven-core-3.0.pom
+2018-10-12 04:13:12,326 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.0/maven-settings-3.0.pom
+2018-10-12 04:13:12,575 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.0/maven-settings-3.0.pom
+2018-10-12 04:13:12,829 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.0/maven-settings-builder-3.0.pom
+2018-10-12 04:13:13,090 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.0/maven-settings-builder-3.0.pom
+2018-10-12 04:13:13,356 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.14/plexus-interpolation-1.14.pom
+2018-10-12 04:13:13,603 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.14/plexus-interpolation-1.14.pom
+2018-10-12 04:13:13,852 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.18/plexus-components-1.1.18.pom
+2018-10-12 04:13:14,100 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.18/plexus-components-1.1.18.pom
+2018-10-12 04:13:14,363 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.0/maven-repository-metadata-3.0.pom
+2018-10-12 04:13:14,613 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.0/maven-repository-metadata-3.0.pom
+2018-10-12 04:13:14,866 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.0/maven-model-builder-3.0.pom
+2018-10-12 04:13:15,113 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.0/maven-model-builder-3.0.pom
+2018-10-12 04:13:15,367 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.0/maven-aether-provider-3.0.pom
+2018-10-12 04:13:15,615 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.0/maven-aether-provider-3.0.pom
+2018-10-12 04:13:15,867 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-api/1.7/aether-api-1.7.pom
+2018-10-12 04:13:16,115 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-api/1.7/aether-api-1.7.pom
+2018-10-12 04:13:16,363 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-parent/1.7/aether-parent-1.7.pom
+2018-10-12 04:13:16,658 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-parent/1.7/aether-parent-1.7.pom
+2018-10-12 04:13:16,918 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-util/1.7/aether-util-1.7.pom
+2018-10-12 04:13:17,165 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-util/1.7/aether-util-1.7.pom
+2018-10-12 04:13:17,416 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-impl/1.7/aether-impl-1.7.pom
+2018-10-12 04:13:17,664 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-impl/1.7/aether-impl-1.7.pom
+2018-10-12 04:13:17,915 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-spi/1.7/aether-spi-1.7.pom
+2018-10-12 04:13:18,163 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-spi/1.7/aether-spi-1.7.pom
+2018-10-12 04:13:18,416 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-toolchain/2.2.1/maven-toolchain-2.2.1.pom
+2018-10-12 04:13:18,677 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-toolchain/2.2.1/maven-toolchain-2.2.1.pom
+2018-10-12 04:13:19,022 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.0.0/maven-shared-utils-3.0.0.pom
+2018-10-12 04:13:19,269 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.0.0/maven-shared-utils-3.0.0.pom
+2018-10-12 04:13:19,518 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/21/maven-shared-components-21.pom
+2018-10-12 04:13:19,766 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/21/maven-shared-components-21.pom
+2018-10-12 04:13:20,014 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/25/maven-parent-25.pom
+2018-10-12 04:13:20,265 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/25/maven-parent-25.pom
+2018-10-12 04:13:20,525 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/2.4/commons-io-2.4.pom
+2018-10-12 04:13:20,781 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.4/commons-io-2.4.pom
+2018-10-12 04:13:21,030 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/25/commons-parent-25.pom
+2018-10-12 04:13:21,294 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/25/commons-parent-25.pom
+2018-10-12 04:13:21,553 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.7/plexus-compiler-api-2.7.pom
+2018-10-12 04:13:21,800 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.7/plexus-compiler-api-2.7.pom
+2018-10-12 04:13:22,049 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/2.7/plexus-compiler-2.7.pom
+2018-10-12 04:13:22,297 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/2.7/plexus-compiler-2.7.pom
+2018-10-12 04:13:22,548 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/4.0/plexus-components-4.0.pom
+2018-10-12 04:13:22,798 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/4.0/plexus-components-4.0.pom
+2018-10-12 04:13:23,053 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/4.0/plexus-4.0.pom
+2018-10-12 04:13:23,314 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/4.0/plexus-4.0.pom
+2018-10-12 04:13:23,566 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.22/plexus-utils-3.0.22.pom
+2018-10-12 04:13:23,813 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.22/plexus-utils-3.0.22.pom
+2018-10-12 04:13:24,068 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.7/plexus-compiler-manager-2.7.pom
+2018-10-12 04:13:24,315 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.7/plexus-compiler-manager-2.7.pom
+2018-10-12 04:13:24,565 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.7/plexus-compiler-javac-2.7.pom
+2018-10-12 04:13:24,812 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.7/plexus-compiler-javac-2.7.pom
+2018-10-12 04:13:25,059 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/2.7/plexus-compilers-2.7.pom
+2018-10-12 04:13:25,306 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/2.7/plexus-compilers-2.7.pom
+2018-10-12 04:13:25,566 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.0/maven-plugin-api-3.0.jar
+2018-10-12 04:13:26,057 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.0/maven-plugin-api-3.0.jar
+2018-10-12 04:13:26,304 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.0/maven-model-3.0.jar
+2018-10-12 04:13:27,047 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.0/maven-model-3.0.jar
+2018-10-12 04:13:27,295 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject-plexus/1.4.2/sisu-inject-plexus-1.4.2.jar
+2018-10-12 04:13:28,277 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject-plexus/1.4.2/sisu-inject-plexus-1.4.2.jar
+2018-10-12 04:13:28,526 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject-bean/1.4.2/sisu-inject-bean-1.4.2.jar
+2018-10-12 04:13:29,265 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject-bean/1.4.2/sisu-inject-bean-1.4.2.jar
+2018-10-12 04:13:29,511 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-guice/2.1.7/sisu-guice-2.1.7-noaop.jar
+2018-10-12 04:13:31,475 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-guice/2.1.7/sisu-guice-2.1.7-noaop.jar
+2018-10-12 04:13:31,721 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.0/maven-artifact-3.0.jar
+2018-10-12 04:13:31,975 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.0/maven-artifact-3.0.jar
+2018-10-12 04:13:32,225 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.0.4/plexus-utils-2.0.4.jar
+2018-10-12 04:13:33,209 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.0.4/plexus-utils-2.0.4.jar
+2018-10-12 04:13:33,458 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.0/maven-core-3.0.jar
+2018-10-12 04:13:35,429 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.0/maven-core-3.0.jar
+2018-10-12 04:13:35,675 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.0/maven-settings-3.0.jar
+2018-10-12 04:13:35,927 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.0/maven-settings-3.0.jar
+2018-10-12 04:13:36,173 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.0/maven-settings-builder-3.0.jar
+2018-10-12 04:13:36,424 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.0/maven-settings-builder-3.0.jar
+2018-10-12 04:13:36,670 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.0/maven-repository-metadata-3.0.jar
+2018-10-12 04:13:36,921 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.0/maven-repository-metadata-3.0.jar
+2018-10-12 04:13:37,171 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.0/maven-model-builder-3.0.jar
+2018-10-12 04:13:37,938 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.0/maven-model-builder-3.0.jar
+2018-10-12 04:13:38,184 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.0/maven-aether-provider-3.0.jar
+2018-10-12 04:13:38,443 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.0/maven-aether-provider-3.0.jar
+2018-10-12 04:13:38,689 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-impl/1.7/aether-impl-1.7.jar
+2018-10-12 04:13:39,185 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-impl/1.7/aether-impl-1.7.jar
+2018-10-12 04:13:39,432 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-spi/1.7/aether-spi-1.7.jar
+2018-10-12 04:13:39,680 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-spi/1.7/aether-spi-1.7.jar
+2018-10-12 04:13:39,928 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-api/1.7/aether-api-1.7.jar
+2018-10-12 04:13:40,422 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-api/1.7/aether-api-1.7.jar
+2018-10-12 04:13:40,669 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-util/1.7/aether-util-1.7.jar
+2018-10-12 04:13:41,167 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-util/1.7/aether-util-1.7.jar
+2018-10-12 04:13:41,415 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.14/plexus-interpolation-1.14.jar
+2018-10-12 04:13:41,668 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.14/plexus-interpolation-1.14.jar
+2018-10-12 04:13:41,914 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.2.3/plexus-classworlds-2.2.3.jar
+2018-10-12 04:13:42,166 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.2.3/plexus-classworlds-2.2.3.jar
+2018-10-12 04:13:42,415 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-toolchain/2.2.1/maven-toolchain-2.2.1.jar
+2018-10-12 04:13:42,664 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-toolchain/2.2.1/maven-toolchain-2.2.1.jar
+2018-10-12 04:13:42,912 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.0.0/maven-shared-utils-3.0.0.jar
+2018-10-12 04:13:43,650 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.0.0/maven-shared-utils-3.0.0.jar
+2018-10-12 04:13:43,897 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/2.4/commons-io-2.4.jar
+2018-10-12 04:13:44,641 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.4/commons-io-2.4.jar
+2018-10-12 04:13:44,890 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.7/plexus-compiler-api-2.7.jar
+2018-10-12 04:13:45,137 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.7/plexus-compiler-api-2.7.jar
+2018-10-12 04:13:45,385 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.7/plexus-compiler-manager-2.7.jar
+2018-10-12 04:13:45,632 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.7/plexus-compiler-manager-2.7.jar
+2018-10-12 04:13:45,880 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.7/plexus-compiler-javac-2.7.jar
+2018-10-12 04:13:46,128 [Worker-433] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.7/plexus-compiler-javac-2.7.jar
+2018-10-12 04:13:49,618 [Worker-433] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.danushka:sample-maven-app:0.0.1-SNAPSHOT @ /home/user/Desktop/SpringBoot/Danushka/sample-maven-app/pom.xml.
+2018-10-12 04:13:50,220 [Worker-433] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sample-maven-app/src
+2018-10-12 04:13:50,221 [Worker-433] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /sample-maven-app/src/test/java because it overlaps with /sample-maven-app/src
+2018-10-12 04:13:50,342 [Worker-433] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-10-12 04:13:50,618 [Worker-433] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.danushka:sample-maven-app:0.0.1-SNAPSHOT @ /home/user/Desktop/SpringBoot/Danushka/sample-maven-app/pom.xml.
+2018-10-12 04:13:50,742 [Worker-433] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sample-maven-app/src
+2018-10-12 04:13:50,743 [Worker-433] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /sample-maven-app/src/test/java because it overlaps with /sample-maven-app/src
+2018-10-12 04:13:50,882 [Worker-433] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-10-12 04:13:51,046 [Worker-422] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-12 04:13:51,047 [Worker-422] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/sample-maven-app/src/main/resources
+2018-10-12 04:13:51,049 [Worker-422] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-12 04:13:51,049 [Worker-422] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/sample-maven-app/src/test/resources
+2018-10-12 04:28:39,654 [Worker-422] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.danushka:sample-maven-app:0.0.1-SNAPSHOT @ /home/user/Desktop/SpringBoot/Danushka/sample-maven-app/pom.xml.
+2018-10-12 04:30:02,724 [Worker-435] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/-.pom
+2018-10-12 04:30:02,725 [Worker-435] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for ::jar: is missing, no dependency information available
+2018-10-12 04:30:30,862 [Worker-438] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.danushka:sample-maven-app:0.0.1-SNAPSHOT @ /home/user/Desktop/SpringBoot/Danushka/sample-maven-app/pom.xml.
+2018-10-12 04:30:31,711 [Worker-440] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate//hibernate-.pom
+2018-10-12 04:30:31,725 [Worker-440] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hibernate:hibernate:jar: is missing, no dependency information available
+2018-10-12 04:30:46,833 [Worker-422] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.danushka:sample-maven-app:0.0.1-SNAPSHOT @ /home/user/Desktop/SpringBoot/Danushka/sample-maven-app/pom.xml.
+2018-10-12 04:30:47,780 [Worker-422] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate/4.1.6.Final/hibernate-4.1.6.Final.pom
+2018-10-12 04:30:47,781 [Worker-422] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hibernate:hibernate:jar:4.1.6.Final is missing, no dependency information available
+2018-10-12 04:30:48,508 [Worker-422] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate/4.1.6.Final/hibernate-4.1.6.Final.jar
+2018-10-12 04:30:48,577 [Worker-438] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hibernate:hibernate:jar:4.1.6.Final is missing, no dependency information available
+2018-10-12 04:30:48,580 [Worker-438] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hibernate:hibernate:jar:4.1.6.Final is missing, no dependency information available
+2018-10-12 04:30:48,603 [Worker-422] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-12 04:30:48,603 [Worker-422] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/sample-maven-app/src/main/resources
+2018-10-12 04:30:48,606 [Worker-422] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-12 04:30:48,606 [Worker-422] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/sample-maven-app/src/test/resources
+2018-10-12 04:31:28,690 [Worker-439] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.danushka:sample-maven-app:0.0.1-SNAPSHOT @ /home/user/Desktop/SpringBoot/Danushka/sample-maven-app/pom.xml.
+2018-10-12 04:31:29,400 [Worker-439] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate.core/4.1.6.Final/hibernate.core-4.1.6.Final.pom
+2018-10-12 04:31:29,402 [Worker-439] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hibernate:hibernate.core:jar:4.1.6.Final is missing, no dependency information available
+2018-10-12 04:31:30,144 [Worker-439] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate.core/4.1.6.Final/hibernate.core-4.1.6.Final.jar
+2018-10-12 04:31:30,197 [Worker-438] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hibernate:hibernate.core:jar:4.1.6.Final is missing, no dependency information available
+2018-10-12 04:31:30,203 [Worker-438] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hibernate:hibernate.core:jar:4.1.6.Final is missing, no dependency information available
+2018-10-12 04:31:30,230 [Worker-439] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-12 04:31:30,230 [Worker-439] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/sample-maven-app/src/main/resources
+2018-10-12 04:31:30,232 [Worker-439] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-12 04:31:30,233 [Worker-439] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/sample-maven-app/src/test/resources
+2018-10-12 04:31:50,322 [Worker-438] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.danushka:sample-maven-app:0.0.1-SNAPSHOT @ /home/user/Desktop/SpringBoot/Danushka/sample-maven-app/pom.xml.
+2018-10-12 04:31:51,126 [Worker-438] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate.cor/4.1.6.Final/hibernate.cor-4.1.6.Final.pom
+2018-10-12 04:31:51,127 [Worker-438] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hibernate:hibernate.cor:jar:4.1.6.Final is missing, no dependency information available
+2018-10-12 04:31:51,944 [Worker-438] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate.cor/4.1.6.Final/hibernate.cor-4.1.6.Final.jar
+2018-10-12 04:31:51,982 [Worker-440] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hibernate:hibernate.cor:jar:4.1.6.Final is missing, no dependency information available
+2018-10-12 04:31:51,985 [Worker-440] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hibernate:hibernate.cor:jar:4.1.6.Final is missing, no dependency information available
+2018-10-12 04:31:52,015 [Worker-438] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-12 04:31:52,015 [Worker-438] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/sample-maven-app/src/main/resources
+2018-10-12 04:31:52,018 [Worker-438] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-12 04:31:52,018 [Worker-438] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/sample-maven-app/src/test/resources
+2018-10-12 04:31:59,648 [Worker-435] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.danushka:sample-maven-app:0.0.1-SNAPSHOT @ /home/user/Desktop/SpringBoot/Danushka/sample-maven-app/pom.xml.
+2018-10-12 04:32:00,392 [Worker-435] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.1.6.Final/hibernate-core-4.1.6.Final.pom
+2018-10-12 04:32:00,629 [Worker-435] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.1.6.Final/hibernate-core-4.1.6.Final.pom
+2018-10-12 04:32:00,901 [Worker-435] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.0.GA/jboss-logging-3.1.0.GA.pom
+2018-10-12 04:32:01,135 [Worker-435] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.0.GA/jboss-logging-3.1.0.GA.pom
+2018-10-12 04:32:01,371 [Worker-435] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/7/jboss-parent-7.pom
+2018-10-12 04:32:01,838 [Worker-435] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/7/jboss-parent-7.pom
+2018-10-12 04:32:02,077 [Worker-435] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.0.Final/jboss-transaction-api_1.1_spec-1.0.0.Final.pom
+2018-10-12 04:32:02,312 [Worker-435] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.0.Final/jboss-transaction-api_1.1_spec-1.0.0.Final.pom
+2018-10-12 04:32:02,549 [Worker-435] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/jboss-specs-parent/1.0.0.Beta2/jboss-specs-parent-1.0.0.Beta2.pom
+2018-10-12 04:32:02,784 [Worker-435] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/jboss-specs-parent/1.0.0.Beta2/jboss-specs-parent-1.0.0.Beta2.pom
+2018-10-12 04:32:03,019 [Worker-435] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/5/jboss-parent-5.pom
+2018-10-12 04:32:03,254 [Worker-435] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/5/jboss-parent-5.pom
+2018-10-12 04:32:03,501 [Worker-435] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final.pom
+2018-10-12 04:32:03,736 [Worker-435] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final.pom
+2018-10-12 04:32:03,973 [Worker-435] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.15.0-GA/javassist-3.15.0-GA.pom
+2018-10-12 04:32:04,207 [Worker-435] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.15.0-GA/javassist-3.15.0-GA.pom
+2018-10-12 04:32:04,444 [Worker-435] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.1.Final/hibernate-commons-annotations-4.0.1.Final.pom
+2018-10-12 04:32:04,682 [Worker-435] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.1.Final/hibernate-commons-annotations-4.0.1.Final.pom
+2018-10-12 04:32:04,919 [Worker-435] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.0.CR2/jboss-logging-3.1.0.CR2.pom
+2018-10-12 04:32:05,153 [Worker-435] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.0.CR2/jboss-logging-3.1.0.CR2.pom
+2018-10-12 04:32:05,387 [Worker-435] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/6/jboss-parent-6.pom
+2018-10-12 04:32:05,625 [Worker-435] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/6/jboss-parent-6.pom
+2018-10-12 04:32:05,883 [Worker-435] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.1.6.Final/hibernate-core-4.1.6.Final.jar
+2018-10-12 04:32:21,721 [Worker-435] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.1.6.Final/hibernate-core-4.1.6.Final.jar
+2018-10-12 04:32:21,985 [Worker-435] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.0.GA/jboss-logging-3.1.0.GA.jar
+2018-10-12 04:32:22,228 [Worker-435] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.0.GA/jboss-logging-3.1.0.GA.jar
+2018-10-12 04:32:22,461 [Worker-435] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.0.Final/jboss-transaction-api_1.1_spec-1.0.0.Final.jar
+2018-10-12 04:32:22,697 [Worker-435] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.0.Final/jboss-transaction-api_1.1_spec-1.0.0.Final.jar
+2018-10-12 04:32:22,931 [Worker-435] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final.jar
+2018-10-12 04:32:23,403 [Worker-435] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final.jar
+2018-10-12 04:32:23,638 [Worker-435] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.15.0-GA/javassist-3.15.0-GA.jar
+2018-10-12 04:32:25,968 [Worker-435] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.15.0-GA/javassist-3.15.0-GA.jar
+2018-10-12 04:32:26,201 [Worker-435] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.1.Final/hibernate-commons-annotations-4.0.1.Final.jar
+2018-10-12 04:32:26,671 [Worker-435] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.1.Final/hibernate-commons-annotations-4.0.1.Final.jar
+2018-10-12 04:32:27,763 [Worker-435] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-12 04:32:27,763 [Worker-435] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/sample-maven-app/src/main/resources
+2018-10-12 04:32:27,771 [Worker-435] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-12 04:32:27,772 [Worker-435] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/sample-maven-app/src/test/resources
+2018-10-12 04:32:28,953 [Worker-422] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-12 04:32:28,953 [Worker-422] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/sample-maven-app/src/main/resources
+2018-10-12 04:32:28,954 [Worker-422] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-12 04:32:28,954 [Worker-422] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/sample-maven-app/src/test/resources
+2018-10-17 21:47:20,021 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.danushka:sample-maven-app:0.0.1-SNAPSHOT @ /home/user/Desktop/SpringBoot/Danushka/sample-maven-app/pom.xml.
+2018-10-17 21:47:24,868 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-17 21:47:24,869 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/sample-maven-app/src/main/resources
+2018-10-17 21:47:24,871 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-17 21:47:24,871 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/sample-maven-app/src/test/resources
+2018-10-20 00:38:17,383 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 00:38:17,388 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/sample-maven-app/src/main/resources
+2018-10-20 00:38:17,389 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 00:38:17,390 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/sample-maven-app/src/test/resources
+2018-10-20 00:59:30,104 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-webapp/1.0/maven-archetype-webapp-1.0.jar
+2018-10-20 00:59:30,251 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-webapp/1.0/maven-archetype-webapp-1.0.jar
+2018-10-20 00:59:30,394 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-webapp/1.0/maven-archetype-webapp-1.0.pom
+2018-10-20 00:59:30,534 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-webapp/1.0/maven-archetype-webapp-1.0.pom
+2018-10-20 01:00:07,394 [Worker-65] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/user/Desktop/SpringBoot/Danushka/eventHandler/pom.xml
+2018-10-20 01:00:07,911 [Worker-65] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.danu:eventHandler:0.0.1-SNAPSHOT @ /home/user/Desktop/SpringBoot/Danushka/eventHandler/pom.xml.
+2018-10-20 01:00:08,391 [Worker-65] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eventHandler/src/main/java
+2018-10-20 01:00:08,392 [Worker-65] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /eventHandler/src/main/resources
+2018-10-20 01:00:08,392 [Worker-65] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eventHandler/src/test/java
+2018-10-20 01:00:09,927 [Worker-65] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2018-10-20 01:00:10,221 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 01:00:10,225 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 01:00:10,227 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 01:00:10,228 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 01:00:46,362 [Worker-63] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.danu:eventHandler:0.0.1-SNAPSHOT @ /home/user/Desktop/SpringBoot/Danushka/eventHandler/pom.xml.
+2018-10-20 01:00:46,647 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 01:00:46,661 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 01:00:46,662 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 01:00:46,662 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 01:00:46,663 [Worker-63] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of eventHandler
+2018-10-20 01:00:46,664 [Worker-63] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for eventHandler
+2018-10-20 01:00:46,667 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 01:00:47,782 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 01:00:47,783 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 01:00:47,784 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 01:00:47,784 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 01:04:19,141 [Worker-67] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.danu:eventHandler:0.0.1-SNAPSHOT @ /home/user/Desktop/SpringBoot/Danushka/eventHandler/pom.xml.
+2018-10-20 01:04:20,274 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/jstl/1.2/jstl-1.2.pom
+2018-10-20 01:04:20,535 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/jstl/1.2/jstl-1.2.pom
+2018-10-20 01:04:20,794 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/jstl/1.2/jstl-1.2.jar
+2018-10-20 01:04:22,856 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/jstl/1.2/jstl-1.2.jar
+2018-10-20 01:04:23,588 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 01:04:23,590 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 01:04:23,594 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 01:04:23,595 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 01:04:23,595 [Worker-67] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of eventHandler
+2018-10-20 01:04:23,595 [Worker-67] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for eventHandler
+2018-10-20 01:04:23,604 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 01:04:24,710 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 01:04:24,711 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 01:04:24,711 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 01:04:24,712 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 01:52:52,907 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 01:52:52,907 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 01:52:52,909 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 01:52:52,910 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 01:53:44,335 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 01:53:44,335 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 01:53:44,336 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 01:53:44,336 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 02:06:11,426 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 02:06:11,428 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 02:06:11,430 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 02:06:11,430 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 02:06:33,182 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 02:06:33,186 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 02:06:33,189 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 02:06:33,190 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 02:06:45,911 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 02:06:45,912 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 02:06:45,912 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 02:06:45,913 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 02:09:00,048 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 02:09:00,049 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 02:09:00,050 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 02:09:00,050 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 02:09:29,751 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 02:09:29,751 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 02:09:29,752 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 02:09:29,752 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 02:10:40,124 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 02:10:40,124 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 02:10:40,134 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 02:10:40,135 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 02:13:32,607 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 02:13:32,608 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 02:13:32,609 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 02:13:32,609 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 02:14:27,794 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 02:14:27,795 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 02:14:27,796 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 02:14:27,796 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 02:17:31,963 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 02:17:31,963 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 02:17:31,963 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 02:17:31,964 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 02:17:56,574 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 02:17:56,575 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 02:17:56,576 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 02:17:56,577 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 02:22:40,115 [Worker-100] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.danu:eventHandler:0.0.1-SNAPSHOT @ /home/user/Desktop/SpringBoot/Danushka/eventHandler/pom.xml.
+2018-10-20 02:22:41,121 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 02:22:41,123 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 02:22:41,130 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 02:22:41,130 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 02:22:41,130 [Worker-100] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of eventHandler
+2018-10-20 02:22:41,130 [Worker-100] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for eventHandler
+2018-10-20 02:22:41,133 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 02:30:04,894 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 02:30:04,895 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 02:30:04,896 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 02:30:04,897 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 02:33:42,219 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 02:33:42,219 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 02:33:42,220 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 02:33:42,221 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 02:34:13,087 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 02:34:13,088 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 02:34:13,090 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 02:34:13,090 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 02:35:01,346 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 02:35:01,347 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 02:35:01,349 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 02:35:01,349 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 02:36:14,384 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 02:36:14,385 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 02:36:14,386 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 02:36:14,386 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 03:25:48,755 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 03:25:48,755 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 03:25:48,756 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 03:25:48,756 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 03:26:30,034 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 03:26:30,034 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 03:26:30,036 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 03:26:30,038 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 03:26:44,397 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 03:26:44,398 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 03:26:44,399 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 03:26:44,399 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 03:27:07,673 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 03:27:07,673 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 03:27:07,675 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 03:27:07,675 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 03:27:39,915 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 03:27:39,915 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 03:27:39,917 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 03:27:39,917 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 03:27:50,553 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 03:27:50,553 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 03:27:50,555 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 03:27:50,556 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 03:29:34,824 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 03:29:34,825 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 03:29:34,826 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 03:29:34,826 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 03:30:29,611 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 03:30:29,611 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 03:30:29,612 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 03:30:29,612 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 03:31:31,830 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 03:31:31,831 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 03:31:31,832 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 03:31:31,833 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 03:38:16,883 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 03:38:16,884 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 03:38:16,885 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 03:38:16,886 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 03:42:09,817 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 03:42:09,818 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 03:42:09,819 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 03:42:09,819 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 03:49:40,970 [Worker-123] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 03:49:40,970 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 03:49:40,971 [Worker-123] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 03:49:40,971 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 03:50:04,012 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 03:50:04,012 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 03:50:04,013 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 03:50:04,013 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 03:50:27,163 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 03:50:27,164 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 03:50:27,164 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 03:50:27,165 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 03:51:14,013 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 03:51:14,013 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 03:51:14,014 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 03:51:14,015 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 03:51:44,292 [Worker-123] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 03:51:44,293 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 03:51:44,294 [Worker-123] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 03:51:44,294 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 03:52:18,313 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 03:52:18,313 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 03:52:18,314 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 03:52:18,315 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 03:53:35,953 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 03:53:35,954 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 03:53:35,955 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 03:53:35,956 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 03:54:10,030 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 03:54:10,031 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 03:54:10,032 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 03:54:10,032 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 03:55:36,051 [Worker-123] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 03:55:36,052 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 03:55:36,053 [Worker-123] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 03:55:36,053 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 03:56:29,867 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 03:56:29,867 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 03:56:29,868 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 03:56:29,869 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 04:00:49,766 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 04:00:49,767 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 04:00:49,768 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 04:00:49,769 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 04:25:36,145 [Worker-127] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 04:25:36,146 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 04:25:36,148 [Worker-127] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 04:25:36,148 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 04:26:13,884 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 04:26:13,884 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 04:26:13,885 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 04:26:13,885 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 04:27:00,743 [Worker-127] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 04:27:00,744 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 04:27:00,744 [Worker-127] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 04:27:00,744 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 04:27:55,524 [Worker-125] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 04:27:55,525 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 04:27:55,526 [Worker-125] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 04:27:55,527 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 04:29:08,339 [Worker-130] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 04:29:08,339 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 04:29:08,340 [Worker-130] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 04:29:08,341 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 04:34:10,559 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 04:34:10,562 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-20 04:34:10,588 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 04:34:10,588 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 04:35:20,208 [Worker-127] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 04:35:20,208 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 04:35:20,209 [Worker-127] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 04:35:20,209 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 04:35:29,595 [Worker-133] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 04:35:29,596 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-20 04:35:29,598 [Worker-133] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 04:35:29,598 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 04:36:52,796 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 04:36:52,797 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 04:36:52,797 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 04:36:52,798 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 04:39:03,622 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 04:39:03,623 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 04:39:03,625 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 04:39:03,626 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 04:39:18,161 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 04:39:18,161 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 04:39:18,162 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 04:39:18,162 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-20 04:44:53,215 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 04:44:53,216 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 04:44:53,217 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 04:44:53,217 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-24 03:05:39,758 [Worker-1726] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 03:05:39,786 [Worker-1726] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 03:05:39,787 [Worker-1726] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 03:05:39,787 [Worker-1726] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-24 03:07:26,052 [Worker-1733] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 03:07:26,052 [Worker-1733] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-24 03:07:26,064 [Worker-1733] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 03:07:26,065 [Worker-1733] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-24 03:08:53,889 [Worker-1733] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 03:08:53,890 [Worker-1733] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-24 03:08:53,892 [Worker-1733] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 03:08:53,892 [Worker-1733] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-24 03:13:47,068 [Worker-1726] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 03:13:47,068 [Worker-1726] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 03:13:47,069 [Worker-1726] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 03:13:47,070 [Worker-1726] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-24 03:14:56,473 [Worker-1733] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 03:14:56,473 [Worker-1733] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 03:14:56,474 [Worker-1733] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 03:14:56,474 [Worker-1733] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-24 03:16:04,912 [Worker-1729] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 03:16:04,913 [Worker-1729] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 03:16:04,914 [Worker-1729] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 03:16:04,915 [Worker-1729] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-24 03:16:45,554 [Worker-1733] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 03:16:45,554 [Worker-1733] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 03:16:45,554 [Worker-1733] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 03:16:45,555 [Worker-1733] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-24 03:20:19,386 [Worker-1735] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 03:20:19,387 [Worker-1735] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 03:20:19,390 [Worker-1735] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 03:20:19,391 [Worker-1735] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-24 03:22:11,164 [Worker-1723] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 03:22:11,164 [Worker-1723] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 03:22:11,166 [Worker-1723] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 03:22:11,166 [Worker-1723] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-24 03:22:58,305 [Worker-1729] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 03:22:58,306 [Worker-1729] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 03:22:58,307 [Worker-1729] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 03:22:58,307 [Worker-1729] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-24 03:28:15,763 [Worker-1733] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 03:28:15,763 [Worker-1733] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 03:28:15,764 [Worker-1733] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 03:28:15,764 [Worker-1733] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-24 03:32:21,653 [Worker-1734] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 03:32:21,654 [Worker-1734] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-10-24 03:32:21,654 [Worker-1734] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 03:32:21,655 [Worker-1734] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-24 03:32:56,715 [Worker-1726] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 03:32:56,715 [Worker-1726] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-10-24 03:32:56,716 [Worker-1726] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 03:32:56,716 [Worker-1726] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-24 03:36:24,843 [Worker-1733] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 03:36:24,844 [Worker-1733] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-10-24 03:36:24,845 [Worker-1733] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 03:36:24,846 [Worker-1733] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-24 03:37:14,203 [Worker-1737] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 03:37:14,203 [Worker-1737] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-10-24 03:37:14,204 [Worker-1737] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 03:37:14,205 [Worker-1737] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-24 03:43:00,128 [Worker-1726] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 03:43:00,128 [Worker-1726] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 03:43:00,131 [Worker-1726] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 03:43:00,132 [Worker-1726] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-24 03:43:15,286 [Worker-1733] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 03:43:15,286 [Worker-1733] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-10-24 03:43:15,287 [Worker-1733] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 03:43:15,287 [Worker-1733] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-24 03:45:55,629 [Worker-1736] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 03:45:55,630 [Worker-1736] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-10-24 03:45:55,631 [Worker-1736] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 03:45:55,631 [Worker-1736] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-24 03:48:37,047 [Worker-1729] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 03:48:37,047 [Worker-1729] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-10-24 03:48:37,048 [Worker-1729] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 03:48:37,049 [Worker-1729] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-24 03:52:30,379 [Worker-1739] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 03:52:30,379 [Worker-1739] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-10-24 03:52:30,380 [Worker-1739] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 03:52:30,381 [Worker-1739] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-24 03:53:15,244 [Worker-1739] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 03:53:15,244 [Worker-1739] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-10-24 03:53:15,245 [Worker-1739] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 03:53:15,246 [Worker-1739] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-24 03:53:49,169 [Worker-1736] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 03:53:49,170 [Worker-1736] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 03:53:49,171 [Worker-1736] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 03:53:49,171 [Worker-1736] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-24 04:17:20,752 [Worker-1740] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.danu:eventHandler:0.0.1-SNAPSHOT @ /home/user/Desktop/SpringBoot/Danushka/eventHandler/pom.xml.
+2018-10-24 04:17:21,417 [Worker-1740] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 04:17:21,420 [Worker-1740] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 04:17:21,423 [Worker-1740] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 04:17:21,423 [Worker-1740] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-24 04:17:21,423 [Worker-1740] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of eventHandler
+2018-10-24 04:17:21,424 [Worker-1740] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for eventHandler
+2018-10-24 04:17:21,426 [Worker-1740] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 04:17:22,728 [Worker-1742] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 04:17:22,729 [Worker-1742] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-10-24 04:17:22,743 [Worker-1742] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 04:17:22,743 [Worker-1742] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-24 04:18:09,455 [Worker-1742] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 04:18:09,456 [Worker-1742] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-10-24 04:18:09,457 [Worker-1742] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 04:18:09,457 [Worker-1742] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-24 04:19:50,296 [Worker-1739] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 04:19:50,296 [Worker-1739] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-10-24 04:19:50,297 [Worker-1739] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 04:19:50,298 [Worker-1739] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-24 04:24:31,338 [Worker-1736] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 04:24:31,339 [Worker-1736] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-10-24 04:24:31,340 [Worker-1736] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 04:24:31,340 [Worker-1736] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-24 04:34:15,479 [Worker-1745] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 04:34:15,479 [Worker-1745] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-24 04:34:15,480 [Worker-1745] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 04:34:15,480 [Worker-1745] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-24 04:34:24,836 [Worker-1729] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 04:34:24,837 [Worker-1729] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-24 04:34:24,838 [Worker-1729] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 04:34:24,838 [Worker-1729] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-24 04:35:21,808 [Worker-1729] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 04:35:21,808 [Worker-1729] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-24 04:35:21,810 [Worker-1729] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 04:35:21,811 [Worker-1729] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources
+2018-10-24 04:37:07,996 [Worker-1736] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 04:37:07,997 [Worker-1736] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-24 04:37:07,998 [Worker-1736] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-24 04:37:07,998 [Worker-1736] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/user/Desktop/SpringBoot/Danushka/eventHandler/src/test/resources

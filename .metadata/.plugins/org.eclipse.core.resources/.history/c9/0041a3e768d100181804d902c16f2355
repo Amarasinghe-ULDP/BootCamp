@@ -1,0 +1,19 @@
+package com5.danushka;
+
+public class Calculas extends Verification{
+	
+	Verification verification = new Verification();
+	Calculas calculas = new Calculas();
+	
+	int answer, x=8, y=10;
+	public int addNum(){
+		
+		answer = x+y;
+		return answer;
+	}
+
+	if(answer==18){
+		setAnswer(true);
+	}
+}
+}

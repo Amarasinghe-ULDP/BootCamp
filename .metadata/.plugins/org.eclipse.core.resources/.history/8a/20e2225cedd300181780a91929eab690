@@ -1,0 +1,17 @@
+package com.danu.eh.model;
+
+public class Activity {
+	
+	private String activityname;
+
+	public String getActivityname() {
+		return activityname;
+	}
+
+	public void setActivityname(String activityname) {
+		this.activityname = activityname;
+	}
+	
+	
+
+}

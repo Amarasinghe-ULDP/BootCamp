@@ -1,0 +1,15 @@
+package com.danu.example1;
+
+import java.math.BigDecimal;
+
+public class Examinner {
+
+	
+	public static void main(String args[]){
+		
+		 BigDecimal b= BigDecimal.valueOf(10);
+		
+		
+		}  
+	}
+

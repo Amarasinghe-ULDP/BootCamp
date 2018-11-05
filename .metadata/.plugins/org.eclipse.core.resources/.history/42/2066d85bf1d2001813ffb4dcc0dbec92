@@ -1,0 +1,21 @@
+package com.danu.ems.service;
+
+import com.danu.ems.repository.EmployeeRepository;
+
+public class EmployeeServiceImpl {
+	
+	EmployeeRepository employeeRepository;
+
+	public EmployeeRepository getEmployeeRepository() {
+		return employeeRepository;
+	}
+
+	public void setEmployeeRepository(EmployeeRepository employeeRepository) {
+		this.employeeRepository = employeeRepository;
+	}
+	
+	public List<Employee> getAllEmployees(){
+		return employeeRepository.getAllEmployees();
+	}
+
+}

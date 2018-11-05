@@ -1,0 +1,5 @@
+package com.danu.ems.service;
+
+public class EmployeeServiceImpl {
+
+}

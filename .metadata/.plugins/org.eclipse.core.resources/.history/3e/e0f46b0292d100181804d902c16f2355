@@ -1,0 +1,16 @@
+package com.danu.ems;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+import com.danu.ems.service.EmployeeService;
+
+public class Application {
+	
+	ApplicationContext applicationContext = new ClassPathXmlApplicationContext("ApplicationContext.xml");
+	
+	EmployeeService employeeService = applicationContext.getBean("employeeService",EmployeeService.class);
+	
+	
+
+}

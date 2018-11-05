@@ -1,0 +1,11 @@
+package com5.danushka;
+
+public class Application {
+	
+	public static void main(String args[]) {
+		
+		Verification verification = new Verification();
+		System.out.println(verification.isAnswer());
+	}
+
+}

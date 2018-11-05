@@ -1,0 +1,9 @@
+package com.danu.eh.model;
+
+public class Activity {
+	
+	private String activityName;
+	
+	
+
+}

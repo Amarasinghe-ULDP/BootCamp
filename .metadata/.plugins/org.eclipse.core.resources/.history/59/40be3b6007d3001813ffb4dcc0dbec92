@@ -1,0 +1,5 @@
+package com.danu.ems.config;
+
+public class ApplicationConfiguration {
+
+}

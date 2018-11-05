@@ -1,0 +1,24 @@
+package com.danu.ems.executor;
+
+import com.danu.ems.service.EmployeeService;
+import com.danu.ems.service.EmployeeServiceImpl;
+
+import java.util.List;
+
+
+import com.danu.ems.model.Employee;
+
+public class Application {
+	
+	public static void main(String args[]){
+		
+		EmployeeService employeeService = new EmployeeServiceImpl();
+		List<Employee> employees = employeeService.getAllEmployees();
+		
+		for(Employee employee: employees){
+			System.out.println(employee.getName() + " from " + employee.getLocation());
+		}
+		
+	}
+
+}

@@ -1,0 +1,10 @@
+package com.danu.strategyPattern;
+
+public class Executor {
+
+	public static void main(String args[]){
+		IFlyBehavior fb = new SimpleFly();
+		
+		Duck dk = new Duck();
+	}
+}

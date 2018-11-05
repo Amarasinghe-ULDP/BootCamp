@@ -1,0 +1,9 @@
+package com.danu.strategyPattern;
+
+public class DisplayAsText {
+	
+	public void displayAsText(){
+		System.out.println("Display as Text");
+	}
+
+}

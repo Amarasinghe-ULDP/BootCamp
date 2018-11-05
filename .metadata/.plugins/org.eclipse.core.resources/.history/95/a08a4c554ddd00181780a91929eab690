@@ -1,0 +1,9 @@
+package com.danu.strategyPattern;
+
+public class WildDuck extends Duck{
+	
+	public WildDuck(){
+		super();
+		qb = new SimpleQuack();
+	}
+}

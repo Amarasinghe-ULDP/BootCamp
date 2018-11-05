@@ -1,0 +1,24 @@
+package com.danushka.ems;
+
+import com.danushka.ems.service.EmployeeService;
+import com.danushka.ems.service.EmployeeServiceImpl;
+
+import java.util.List;
+
+import com.danushka.ems.model.Employee;
+
+public class Application {
+	
+	public static void main(String args[]){
+		
+		EmployeeService employeeService = new EmployeeServiceImpl();
+		List<Employee> employees =  employeeService.getAllEmployees()();
+		
+		
+		for(Employee employee: employees ){
+			System.out.println(employee.getName() + "" + employee.getLocation());
+			
+		}
+	
+
+}

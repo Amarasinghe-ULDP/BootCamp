@@ -1,0 +1,5 @@
+package com.danu.strategyPattern;
+
+public class Duck {
+
+}

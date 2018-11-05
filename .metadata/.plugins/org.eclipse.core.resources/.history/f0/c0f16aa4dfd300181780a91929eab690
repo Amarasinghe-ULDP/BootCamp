@@ -1,0 +1,15 @@
+package com.danu.eh.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+public class ActivityController {
+	
+	@RequestMapping(value="/greeting")
+	public String getWelcomeMessage(){
+		
+		return "Welcome"
+	}
+
+}

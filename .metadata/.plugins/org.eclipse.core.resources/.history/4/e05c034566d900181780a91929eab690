@@ -1,0 +1,44 @@
+package com.danu.example1;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class ArrayListSample {
+
+	public static void main(String args[]){
+		
+		List<String> list = new ArrayList<String>(100);
+		
+		System.out.println("ArrayList size is " + list.size());
+		
+		list.add("A");
+		list.add("E");
+		list.add("I");
+		list.add("O");
+		list.add("U");
+		
+		/*System.out.println("ArrayList size is " + list.size());
+		
+		list.remove(3);
+		
+		System.out.println("ArrayList size is " + list.size());
+		
+		for(String string: list){
+			System.out.println(string);
+		}*/
+		
+		List<String> list1 = new ArrayList<>();
+		list1.add("A");
+		list1.add("E");
+		list1.add("L");
+		list1.add("k");
+		list1.add("U");
+		
+		
+		//System.out.println("ArrayList size is " + list.removeAll(list1));
+		list.removeAll(list1);
+		list.retainAll(list1);
+		System.out.println("ArrayList size is " + list);
+		
+	}
+}

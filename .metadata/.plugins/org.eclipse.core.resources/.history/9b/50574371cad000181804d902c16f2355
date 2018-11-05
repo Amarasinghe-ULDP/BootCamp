@@ -1,0 +1,24 @@
+package com.danushka.ems.config;
+
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+
+import com.danushka.ems.Repository.HibernateEmployeeRepositoryImpl;
+import com.danushka.ems.service.EmployeeService;
+import com.danushka.ems.service.EmployeeServiceImpl;
+
+@Configuration
+public class ApplicationConfiguration {
+	
+	@Bean
+	public EmployeeService getEmployeeService(){
+		EmployeeServiceImpl employeeServiceImpl = new EmployeeServiceImpl();
+		employeeServiceImpl.setEmployeeRespository(getEmployeeRepository());
+		return employeeServiceImpl;
+	}
+
+	@Bean
+	public EmployeeService getEmployeeRepository(){
+		return (EmployeeService) new HibernateEmployeeRepositoryImpl();
+	}
+}

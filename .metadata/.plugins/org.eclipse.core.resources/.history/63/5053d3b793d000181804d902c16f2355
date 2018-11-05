@@ -1,0 +1,5 @@
+package com.danushka.ems.model;
+
+public class Employee {
+
+}

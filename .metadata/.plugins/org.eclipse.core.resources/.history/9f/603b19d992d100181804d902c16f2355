@@ -1,0 +1,27 @@
+package com.danu.ems.service;
+
+import com.danu.ems.repository.EmployeeRepository;
+import com.danu.ems.repository.HibernateEmployeeRepositoryImpl;
+
+import java.util.List;
+
+import com.danu.ems.model.Employee;
+
+public class EmployeeServiceImpl implements EmployeeService {
+	
+	EmployeeRepository employeeRepository;// = new HibernateEmployeeRepositoryImpl();
+	
+	public EmployeeRepository getEmployeeRepository() {
+		return employeeRepository;
+	}
+
+	public void setEmployeeRepository(EmployeeRepository employeeRepository) {
+		this.employeeRepository = employeeRepository;
+	}
+
+	@Override
+	public List<Employee> getAllEmployees(){
+		return employeeRepository.getAllEmployees();
+	}
+
+}

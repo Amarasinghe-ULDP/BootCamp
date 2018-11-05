@@ -1,0 +1,5 @@
+package com.danu.ems.repository;
+
+public class EmployeeRepositoryImpl {
+
+}

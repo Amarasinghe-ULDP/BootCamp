@@ -1,0 +1,26 @@
+package com.danu.strategyPattern;
+
+public class Duck{
+	
+	//IFlyBehavior fb;
+	public IQuackBehavior qb;
+	//IDisplayBehavior db;
+	
+	public Duck(IQuackBehavior qb){
+		this.qb = qb;
+	}
+
+	public void quack(Srting sound){
+		qb.quack(sound);
+	}
+	
+/*	public String quack(){
+		return qb.quack();
+	}
+	
+	public void setQuackAbility(IQuackBehavior qb){
+		qb = qb;
+	}*/
+	
+	
+}

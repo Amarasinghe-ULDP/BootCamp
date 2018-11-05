@@ -1,0 +1,21 @@
+package com5.danushka;
+
+public class Verification {
+	
+	private boolean answer;
+	
+	public Verification(){
+		
+	}
+
+	public boolean isAnswer() {
+		return answer;
+	}
+
+	public void setAnswer(boolean answer) {
+		this.answer = answer;
+	}
+	
+	
+
+}

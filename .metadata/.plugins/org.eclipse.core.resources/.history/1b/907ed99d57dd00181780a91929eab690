@@ -1,0 +1,9 @@
+package com.danu.strategyPattern;
+
+public class NoQuack implements IQuackBehavior {
+	
+	 public String quack(){
+		return "No quack";
+	}
+
+}

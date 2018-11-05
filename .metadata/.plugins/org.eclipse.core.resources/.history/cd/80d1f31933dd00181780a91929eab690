@@ -1,0 +1,9 @@
+package com.danu.strategyPattern;
+
+public class SimpleFly {
+	
+	public void fly(){
+		System.out.println("Simple fly");
+	}
+
+}

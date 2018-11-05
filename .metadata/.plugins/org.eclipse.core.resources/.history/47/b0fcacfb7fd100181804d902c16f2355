@@ -1,0 +1,17 @@
+package com5.danushka;
+
+import java.awt.List;
+import java.util.ArrayList;
+
+public class ObjectClone {
+	
+	public static void main(String args[]){
+		
+		ObjectClone objectClone = new ObjectClone();
+		List<> objectClone = new ArrayList<>();
+		objectClone.ad
+		objectClone.clone();
+		
+	}
+
+}

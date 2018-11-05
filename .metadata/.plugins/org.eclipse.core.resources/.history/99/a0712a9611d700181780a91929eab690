@@ -1,0 +1,30 @@
+package com.danu.eh.controller;
+
+
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import com.danu.eh.model.Event;
+
+@Controller
+public class EventController {
+
+	@RequestMapping(value="/addEvent")
+	public String addEvent(Model model){
+		
+		model.addAttribute("event", new Event());
+		
+		return "addEvent";
+	}
+	
+	
+	public String getEvent(Model model){
+		
+		Event event = new Event();
+		event.setEventName("Birthday");
+		model.addAttribute("event", event);
+		return "addEvent";
+	}
+}

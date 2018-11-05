@@ -1,0 +1,3 @@
+1539619811246	Extract interface 'HibernateEmployeeRepository'
+1539620303204	Rename type 'HibernateEmployeeRepository'
+1539620459995	Extract interface 'EmployeeService'

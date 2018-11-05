@@ -1,0 +1,7 @@
+package com.danu.ems.repository;
+
+public interface EmployeeRepository {
+
+	List<Employee> getAllEmployees();
+
+}

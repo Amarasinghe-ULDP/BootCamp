@@ -1,0 +1,18 @@
+package com.danushka.ems.service;
+
+import java.util.List;
+
+import com.danushka.ems.Repository.EmployeeRepository;
+import com.danushka.ems.Repository.HibernateEmployeeRepositoryImpl;
+import com.danushka.ems.model.Employee;
+
+public class EmployeeServiceImpl {
+	
+	EmployeeRepository employeeRespository = new EmployeeRepository();
+	
+	public List<Employee> getAllEmployees(){
+		return employeeRespository.getAllEmployees();
+		
+	}
+
+}

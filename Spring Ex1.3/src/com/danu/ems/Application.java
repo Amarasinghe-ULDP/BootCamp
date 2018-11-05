@@ -1,0 +1,28 @@
+package com.danu.ems;
+
+import java.util.List;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+import com.danu.ems.model.Employee;
+import com.danu.ems.service.EmployeeService;
+
+public class Application {
+	
+		public static void main(String args[]){
+		
+		ApplicationContext applicationContext = new ClassPathXmlApplicationContext("ApplicationContext.xml");
+		
+		EmployeeService employeeService = applicationContext.getBean("employeeService",EmployeeService.class);
+		
+		List<Employee> employees = employeeService.getAllEmployees();
+		
+		for(Employee employee:employees){
+			System.out.println(employee.getName() + " from " + employee.getLocation());
+		}
+		
+		
+	}
+
+}

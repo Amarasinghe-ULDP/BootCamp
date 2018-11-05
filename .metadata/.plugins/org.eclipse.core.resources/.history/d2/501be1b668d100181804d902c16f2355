@@ -1,0 +1,12 @@
+package com5.danushka;
+
+public class Calculas {
+	
+	int answer, x=8, y=10;
+	public int add(){
+		
+		answer = x+y;
+		return answer;
+	}
+
+}

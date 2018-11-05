@@ -1,0 +1,13 @@
+package com.danu.ems.repository;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class EmployeeRepositoryImpl implements EmployeeRepository {
+
+	@Override
+	public List<Employee> getAllEmployees(){
+		
+		Lis<Employee> employees = new ArrayList<>();
+	}
+}

@@ -1,0 +1,19 @@
+package com.danu.strategyPattern;
+
+public class Executor {
+
+	public static void main(String args[]){
+		/*IFlyBehavior fb = new SimpleFly();
+		IQuackBehavior qb = new SimpleQuack();
+		IDisplayBehavior db = new DisplayAsText();*/
+		
+		Duck dk1 = new WildDuck();
+		
+		Duck dk2 = new CityDuck();
+		
+		System.out.println("wild Duck: " + dk1.quack());
+		System.out.println("wild Duck: " + dk2.quack());
+		fb.fly();
+		qb.quack();
+	}
+}

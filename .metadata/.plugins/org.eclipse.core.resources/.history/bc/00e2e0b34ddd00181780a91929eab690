@@ -1,0 +1,6 @@
+package com.danu.strategyPattern;
+
+public interface IDisplayBehavior {
+
+	void display();
+}

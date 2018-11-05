@@ -1,0 +1,28 @@
+package com.danu.example1;
+
+import java.util.TreeMap;
+import java.util.Map;
+
+
+public class Examinner {
+
+	
+	public static void main(String args[]){
+		
+		Student student = new Student();
+		student.setName("Kamal");
+		student.setId(111);
+		TreeMap<Integer,Student> tm = new TreeMap<>();
+		tm.put(30,student.getName(),student.getId());
+		
+		TreeMap<Integer,String> tm = new TreeMap<Integer,String>();
+		tm.put(100, "Danu, ");
+		tm.put(101, "Kamal");
+		
+		  for(Map.Entry m:tm.entrySet()){  
+			   System.out.println(m.getKey()+" "+m.getValue());  
+			  }  
+		
+	
+	}
+}
